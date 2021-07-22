@@ -1,4 +1,4 @@
-# allEditSite
-This code blows!
+This is a fork/clone of allEditSite (which bulids the collaborative website 2003page that runned from 2019-2020.)
 
-A new repository has been made, this one was too bloated (it takes around 700mb to download it due to remains of old bloated files from 2019-2020).
+
+This was made for fun,so please dont take it too serioiusly.
